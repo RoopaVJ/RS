@@ -12,7 +12,7 @@ public class Tutorial {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
-	// validations 
+	// validations applied by rekha
 
 	@NotNull
 	private String title;
