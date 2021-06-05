@@ -23,7 +23,7 @@ public class Tutorial {
 	private boolean published;
 	
 	
-
+// rekha btranch
 	public boolean isPublished() {
 		return published;
 	}
