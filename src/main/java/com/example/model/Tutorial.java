@@ -13,6 +13,7 @@ public class Tutorial {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 	//validatins are applied
+	// validations 
 	@NotNull
 	private String title;
 	
