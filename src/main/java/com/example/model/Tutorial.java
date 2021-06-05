@@ -12,8 +12,7 @@ public class Tutorial {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
-	//implemented 
-	// validations 
+	//implemented by roopa
 	@NotNull
 	private String title;
 	
