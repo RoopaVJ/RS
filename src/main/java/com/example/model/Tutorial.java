@@ -23,6 +23,7 @@ public class Tutorial {
 	@NotNull
 	private boolean published;
 	
+	//master
 	
 
 	public boolean isPublished() {
